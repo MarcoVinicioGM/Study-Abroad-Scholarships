@@ -1,0 +1,42 @@
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Thumbnails
+._*
+Thumbs.db
+
+# Ignore editor-specific files
+# VS Code
+.vscode/
+# Atom
+.atom/
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Ignore general backup files
+*.bak
+*.swp
+*~
+
+# Ignore Node.js dependency directory (if you ever decide to add build tools, etc.)
+node_modules/
+
+# Ignore Python virtual environment (if you ever use Python scripts for something)
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+*.pyc
+
+# Ignore any local environment configuration files
+.env
+.env.local
+.env.*.local
+
+# Ignore build output directories (just in case)
+build/
+dist/
