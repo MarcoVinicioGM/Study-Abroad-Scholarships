@@ -88,13 +88,10 @@ The Gilman application requires three main essays, with additional optional essa
 
 ### Key Themes and Selection Criteria for Essays
 
-The essay prompts are designed to elicit responses that demonstrate a candidate's suitability for the Gilman Scholarship by addressing several key themes and selection criteria:
-
 * **Statement of Purpose:** This essay should clearly articulate the applicant's academic preparedness for study abroad, the anticipated impact of the experience on their educational and career trajectory, a strong rationale for their choice of program and destination, how the study abroad experience will help them achieve their future goals, and how they will draw upon their existing skills and experiences to navigate the challenges of a new environment.
 * **Building Mutual Understanding:** Applicants need to explain how they will serve as a "citizen diplomat" while abroad. This involves detailing how they will represent the United States, share their background and experiences, actively engage with the host culture, and build meaningful relationships with local people. Demonstrating self-awareness of potential cultural biases is also beneficial.
 * **Follow-on Service Project:** This proposal must outline a feasible project with clear goals and defined steps. It should identify a specific target audience and detail any planned collaborations with campus or community organizations. A crucial element is explaining how the project will directly contribute to increasing awareness of study abroad opportunities and the Gilman Scholarship itself. The project must be completed within six months of returning from abroad and cannot be a paid endeavor.
 
-> Collectively, these prompts guide applicants to construct a coherent narrative that addresses "Why me?" (unique qualifications and contributions), "Why here?" (specific program and location choice), "Why now?" (timeliness in academic/career path), and "What next?" (future impact and give-back through the Follow-on Service Project).
 
 ### Tips for Compelling Content and Structure for Each Essay Type
 
