@@ -4,16 +4,9 @@ This repository is a curated collection of scholarships for students who want to
 
 ---
 
-### ✨ Highlights
-
-*   **Comprehensive Listings:** A wide variety of scholarships for different regions, fields of study, and student profiles.
-*   **Community-Driven:** Contributions and updates from users like you are welcome to keep the list current and accurate.
-
----
-
 ### 📚 How to Use This Resource
 
-All the scholarship information is contained in this `README.md` file. You can browse through the list to find scholarships that match your eligibility and interests. Each entry includes the scholarship name, a brief description, and a link to the official page for more details and the application process.
+All the scholarship information is contained in this `.md` files. You can browse through the list to find scholarships that match your eligibility and interests. Each entry includes the scholarship name, a brief description, and a link to the official page for more details and the application process.
 
 ---
 
